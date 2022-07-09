@@ -14,7 +14,7 @@
 
 ## Overview
 
-Creating a Clipboard landing page
+Created NEWBIE Clipboard landing page
 
 ### The challenge
 
@@ -26,8 +26,9 @@ Using every CSS basic features
 
 ### Links
 
-- GITHUB REPO: [https://github.com/MrRo-bot/FEM9]
-- Solution URL: [https://codepen.io/Mr-RO13OT/pen/QWdoemM]
+- GITHUB REPO: [https://github.com/MrRo-bot/clipboard-landing-page]
+
+- Solution URL: [https://codepen.io/Mr-RO13OT/full/QWdoemM]
 
 ## My process
 
