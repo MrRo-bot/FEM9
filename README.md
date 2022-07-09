@@ -14,7 +14,7 @@
 
 ## Overview
 
-Created NEWBIE Clipboard landing page
+Created JUNIOR Clipboard landing page
 
 ### The challenge
 
